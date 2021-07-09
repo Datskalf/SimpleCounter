@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCounter", "SimpleCounter\SimpleCounter.csproj", "{D8178FED-ED4D-41E0-968A-7F24FEC45C90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8178FED-ED4D-41E0-968A-7F24FEC45C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8178FED-ED4D-41E0-968A-7F24FEC45C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8178FED-ED4D-41E0-968A-7F24FEC45C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8178FED-ED4D-41E0-968A-7F24FEC45C90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5069441-6204-4A6C-A0ED-7E0BDA65593E}
+	EndGlobalSection
+EndGlobal
