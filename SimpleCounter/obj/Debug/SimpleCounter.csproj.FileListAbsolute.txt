@@ -10,3 +10,15 @@ C:\Users\Datskalf\source\repos\SimpleCounter\SimpleCounter\obj\Debug\SimpleCount
 C:\Users\Datskalf\source\repos\SimpleCounter\SimpleCounter\obj\Debug\SimpleCounter.pdb
 C:\Users\Datskalf\source\repos\SimpleCounter\SimpleCounter\obj\Debug\SimpleCounter.PrefixSuffix.resources
 C:\Users\Datskalf\source\repos\SimpleCounter\SimpleCounter\obj\Debug\SimpleCounter.FormKeyBindings.resources
+C:\Users\Sondre Mathias\source\repos\SimpleCounter\SimpleCounter\bin\Debug\SimpleCounter.exe.config
+C:\Users\Sondre Mathias\source\repos\SimpleCounter\SimpleCounter\bin\Debug\SimpleCounter.exe
+C:\Users\Sondre Mathias\source\repos\SimpleCounter\SimpleCounter\bin\Debug\SimpleCounter.pdb
+C:\Users\Sondre Mathias\source\repos\SimpleCounter\SimpleCounter\obj\Debug\SimpleCounter.csprojAssemblyReference.cache
+C:\Users\Sondre Mathias\source\repos\SimpleCounter\SimpleCounter\obj\Debug\SimpleCounter.Form1.resources
+C:\Users\Sondre Mathias\source\repos\SimpleCounter\SimpleCounter\obj\Debug\SimpleCounter.FormKeyBindings.resources
+C:\Users\Sondre Mathias\source\repos\SimpleCounter\SimpleCounter\obj\Debug\SimpleCounter.PrefixSuffix.resources
+C:\Users\Sondre Mathias\source\repos\SimpleCounter\SimpleCounter\obj\Debug\SimpleCounter.Properties.Resources.resources
+C:\Users\Sondre Mathias\source\repos\SimpleCounter\SimpleCounter\obj\Debug\SimpleCounter.csproj.GenerateResource.cache
+C:\Users\Sondre Mathias\source\repos\SimpleCounter\SimpleCounter\obj\Debug\SimpleCounter.csproj.CoreCompileInputs.cache
+C:\Users\Sondre Mathias\source\repos\SimpleCounter\SimpleCounter\obj\Debug\SimpleCounter.exe
+C:\Users\Sondre Mathias\source\repos\SimpleCounter\SimpleCounter\obj\Debug\SimpleCounter.pdb
