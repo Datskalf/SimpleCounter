@@ -5,7 +5,7 @@ You are free to use the software however you see fit however.
 
 
 Installation process:
-1. Download the .exe file in the latest release on my [github](https://github.com/Datskalf/SimpleCounter) page.
+1. Download the .exe file in the latest release on my [github](https://github.com/Datskalf/SimpleCounter/releases) page.
 2. Run the downloaded file, and you are up and going.
 
 
